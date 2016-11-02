@@ -1,5 +1,5 @@
 {
-   "name": "elogank/lol-replay-observer",
+   "name": "elogank/lol-replay-observer-new",
    "description": "A simple library to allow players to watch League of Legends replays on your server",
    "keywords": [
        "lol", "library", "league of legends", "replay", "record", "spectator", "server", "observer", "download"
